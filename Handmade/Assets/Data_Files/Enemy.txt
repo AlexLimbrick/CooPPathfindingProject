@@ -1,0 +1,6 @@
+Width=150
+Height=120
+TexW=282
+TexH=275
+Sprite=ship1.png
+Damage=10

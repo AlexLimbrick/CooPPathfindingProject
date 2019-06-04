@@ -1,0 +1,7 @@
+Health=100
+Bullets=30
+Width=150
+Height=150
+TexW=150
+TexH=120
+Sprite=Player.png
